@@ -1,4 +1,4 @@
-# Lazy Ren's Blog
+# Orb's Blog
 
 ## [About Me]
 
