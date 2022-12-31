@@ -1,8 +1,8 @@
 {% if resume.programming.size > 0 %}
 <section class="npb">
   <h2 id="programming" class="h3 hr-bottom">
-    {{ strings.resume.skills | default:"Programming Language" }}
-    <span class="symbol {{ icons.skills | default:'icon-wrench' }}"></span>
+    {{ strings.resume.programming | default:"Programming Language" }}
+    <span class="symbol {{ icons.programming | default:'icon-wrench' }}"></span>
   </h2>
   <dl class="programming">
     {% for skl in resume.programming %}
