@@ -214,9 +214,9 @@ comments:
 # https://giscus.vercel.app/
 giscus:
   repo: "KuroOrb/KuroOrb.github.io"
-  repo-id: "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
-  category: "Comments"
-  category-id: "DIC_kwDOEHDTNc4B-MIg"
+  repo-id: "R_kgDOIrjDWg"
+  category: "General"
+  category-id: "DIC_kwDOIrjDWs4CTWJr"
   mapping: "pathname"
   reaction-enabled: "1"
   data-emit-metadata: "0"
