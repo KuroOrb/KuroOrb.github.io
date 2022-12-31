@@ -3,13 +3,14 @@ layout: resume
 title: Resume
 permalink: /resume/
 description: >
-  Hi, I'm DaeIn Lee, SW engineer at Samsung Research.
+  Hi, I'm Jamie Carambat, Cybersecurity Intern at LLNL.
 hide_description: true
 sidebar: true
 order: 5
 left_column:
- - work
  - education
+ - work
+ - additional_work
  - projects
  - publications
  - references

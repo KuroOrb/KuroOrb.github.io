@@ -9,11 +9,11 @@ order: 1
 
 ## Hello, World!
 
-Hi, I'm **DaeIn Lee**, *a.k.a.* **Lazy Ren**.<br>
-I'm currently working at **[SAP Labs Korea]**, and previsouly was CSE student of **[Hanyang University]**.<br>
-I like to solve brain teasing problems in field of CSE (probably the reason I liked multi-core programming / OS courses).<br>
-And I'm also a [heavy gamer]!<br>
-Pleaseh check my [resume] if you wish to know more about me.
+Hi, I am **Jamie Carambat**, *a.k.a.* **Orb** in the dev/gaming realm.<br>
+I am currently working at **[LLNL]** as a Cybersecurity intern focused in Computer Science.<br>
+On top of that, I am also an SFS Graduate Student at the **[University of South Alabama]**<br>
+working towards my Masters degree in Cybersecurity and Computer Science. I like to code, hack, and game.<br>
+Please check out my [resume] if you wish to know more about me.
 
 ***
 
@@ -56,7 +56,7 @@ Did you lose anything?
 
 ***
 
-Blog created by DaeIn Lee on July 19. 2018 in Vancouver,<br>
+Blog created by Jamie Carambat on December 30. 2022 in Alabama, United States,<br>
 based on the jekyll theme [Hydejack].
 
 ***
@@ -64,9 +64,7 @@ based on the jekyll theme [Hydejack].
 <!--author-->
 
 <!-- Links -->
-[SAP Labs Korea]: https://www.sap.com/korea/about/labs-korea.html
-[Hanyang University]: https://www.hanyang.ac.kr/
-[heavy gamer]: https://steamcommunity.com/id/lazyren
+[LLNL]: https://www.llnl.gov/
+[University of South Alabama]: https://www.southalabama.edu/
 [resume]: /resume/
-[original post]: http://blog.vivekmahbubani.com/2007/03/work-hard-to-be-lazy.html
 [Hydejack]: https://hydejack.com

@@ -1,108 +1,157 @@
 basics:
-  name: "DaeIn Lee"
-  label: "Software Engineer"
-  picture: /assets/img/seattle.png
-  email: "daein0lee@gmail.com"
-  phone: "(+82) 10-6273-3127"
-  website: "https://lazyren.github.io/"
+  name: "Jamie Carambat"
+  label: "Cybersecurity Student and Intern"
+  picture: /assets/img/sushi_profile.png
+  email: "jecarambat@gmail.com"
+  phone: "(251)-725-4820"
+  website: "https://kuroorb.github.io/"
   summary: >
-    Hello, I'm DaeIn Lee from SAP Labs Korea.<br>
-    I like to solve brain teasing problems in the field of CSE.<br>
-    I'd like to describe myself as a fast learner;<br>
-    I am confident that I can satisfy expectations of coworkers.
-  # location:
-  #   address: "2712 Broadway St"
-  #   postalCode: "CA 94115"
-  #   city: "San Francisco"
-  #   countryCode: "US"
-  #   region: "California"
+    Hello, I'm Jamie Carambat from University of South Alabama.<br> I like to always keep learning and guide others to do the same.<br> I'd like to describe myself as a competive learner.<br>
+
   profiles:
     - network: "Github"
-      username: "LazyRen"
-      url: "https://github.com/LazyRen"
+      username: "KuroOrb"
+      url: "https://github.com/KuroOrb"
     - network: "LinkedIn"
-      username: "DaeIn Lee"
-      url: "https://www.linkedin.com/in/daein-lee-3b6ba9139/"
+      username: "James Carambat"
+      url: "https://www.linkedin.com/in/james-carambat-10a5451b9/"
+education:
+  - institution: "University of South Alabama"
+    area: "Cybersecurity and Computer Science"
+    studyType: "Masters"
+    startDate: "2021-08-15"
+    endDate: "2023-05-30"
+    gpa: "4.00 / 4.00"
+    summary: >
+      "School of Computing - National Center of Academic Excellence in Cyber Defense"
+
+  - institution: "University of South Alabama"
+    area: "Computer Science"
+    studyType: "Bachelor"
+    startDate: "2017-08-15"
+    endDate: "2021-07-30"
+    gpa: "3.68 / 4.00"
 work:
-  - company: "SAP Labs Korea"
-    position: "HANA Core Developer"
-    website: https://www.sap.com/korea/about/labs-korea.html"
-    startDate: "2021-01-11"
+  - company: "Lawerence Livermore National Laboratory"
+    position: "Cybersecurity Intern"
+    website: "https://www.llnl.gov/about"
+    startDate: "2022-11-14"
     endDate: ""
     summary: >
-      SAP Labs Korea, a cornerstone of SAP HANA, now aims to bring the in-memory technology to the cloud where it acts as a single gateway to data of any size to harness the power of data wherever it resides and ensure the platform for intelligent enterprise.
+      "Lawrence Livermore National Laboratory’s mission is to enable U.S. security and global stability and resilience by empowering multidisciplinary teams to pursue bold and innovative science and technology."
+
     highlights:
-  - company: "Samsung Research"
-    position: "SW Engineer"
-    website: "https://research.samsung.com/"
-    startDate: "2020-02-03"
-    endDate: "2020-12-31"
+      - "Current Position."
+  - company: "Department of Energy - Lawerence Livermore National Laboratory"
+    position: "DOE Omni Technology Alliance Intern"
+    website: "https://www.energy.gov/diversity/doe-omni-technology-alliance-internship-program"
+    startDate: "2022-06-01"
+    endDate: "2022-08-14"
     summary: >
-      Samsung Research is the advanced research and development (R&D) hub of Samsung Electronics. The hub leads the development of the future technologies with more than 10,000 researchers and developers working in overseas R&D centers.
+      "Development of the Malicious Code Analysis Center or MCAC for short."
+
     highlights:
-      - "Software Capacity Building T/F"
-  - company: "Samsung Research"
-    position: "Intern"
-    website: "https://research.samsung.com/"
-    startDate: "2019-06-24"
-    endDate: "2019-08-30"
-    summary:
+      - "Assemblyline4 framework and pipline implementation on network isolated systems to enable single and/or bulk submission of malware samples for a quick static and dynamic analysis."
+      - "Data and results saved locally and queried through the use of elastic search."
+      - "Further implementation of REMnux and FlareVM for manual analysis."
+      - "Participation in an intern wide CTF competiton (3rd Place) and a Lawerence Livermore National Lab vs Sandia National Lab CTF competition (2nd Place)."
+      - "Participation in Cyber and Infrastructure Resilience program activities, meetings, and project presentations."
+  - company: "University of South Alabama Computing Research"
+    position: "Undergraduate Research Assistant"
+    website: "https://www.southalabama.edu/colleges/soc/research/"
+    startDate: "2021-06-01"
+    endDate: "2021-08-15"
+    summary: >
+      "Security related research into Azure Sphere and the Pluton Subsystem of the MT3620 microcontroller unit."
+
     highlights:
-      - "Software engineering internship at Smart Device team."
-      - "8 week internship to develop smart switch circuit PMU firmware with the purpose of increasing power efficiency."
-  - company: "LG CNS"
-    position: "Intern"
-    website: "https://www.lgcns.co.kr/"
-    startDate: "2019-01-03"
-    endDate: "2019-02-28"
-    summary:
+      - "Responsible for research documentation and understanding Azure development for deliverable writeups."
+  - company: "University of South Alabama Computing Research"
+    position: "Undergraduate Research Assistant"
+    website: "https://www.southalabama.edu/colleges/soc/research/"
+    startDate: "2020-08-01"
+    endDate: "2021-01-01"
+    summary: >
+      "Deparment of Defense funded machine learning research."
+
     highlights:
-      - "Software Engineering Internship at Development Platform team."
-      - "6 week internship to develop new Enterprise Application Platform pages."
-      - "Gained better understanding of overall web development."
-  - company: "Fortify Inc."
-    position: "Intern"
-    website: "https://fortify.pro/"
-    startDate: "2018-07-08"
-    endDate: "2018-08-24"
-    summary:
+      - "Responsible for creating multiple models of given data using convolutional neural networks."
+      - "Finding visualizer methods for model data (Graphviz and Tensor libraries)."
+      - "Understanding methods of accessing and tuning hyper parameters in Random Forest."
+      - "Machine Learning and Deep Learning algorithms used: Random Forest, Decision Tree, Convolutional Neural Networks."
+  - company: "University of South Alabama Computing Research"
+    position: "Undergraduate Research Assistant"
+    website: "https://www.southalabama.edu/colleges/soc/research/"
+    startDate: "2020-07-01"
+    endDate: "2020-08-01"
+    summary: >
+      "Research under the Inforation Security Research and Education (INSuRE) grant."
+
     highlights:
-      - "Building responsive homepage for 'fortify.pro'."
-      - "Backend/frontend development and service usage analysis using mongoDB for Gaia Landscape Inc."
+      - "1. Responsible for breaking down and preprocessing Android Application Permission Data to use in the Random Forest algorithm to detect harmful applications."
+      - "2. Malware detection within WPA and WPA2 traffic from Aegan Wireless Intrusion Dataset (AWID)."
+      - "AWID dataset is used in machine learning algorithms to detect malware over 802.11i traffic."
+      - "Responsible for breaking down and preprocessing AWID dataset to produce successful predictions using the Random Forest algorithm."
+additional_work:
+  - company: "Univerist of South Alabama Recreation Center"
+    position: "Lifeguard"
+    website: "https://www.southalabama.edu/departments/campusrec/studentrecreationcenter/"
+    startDate: "2018-05-01"
+    endDate: "2021-06-01"
+    highlights:
+      - "Skills range from leadership during an emergency, CPR, and Water Safety."
+  - company: "Panera Bread"
+    position: "Crew Trainer"
+    website: "https://www.panerabread.com/en-us/home.html"
+    startDate: "2017-06-01"
+    endDate: "2020-01-01"
+    highlights:
+      - "Training incoming employees."
+      - "Leader on the food line and dining room: consolidated and pushed orders; dealt with customer complaints; kept areas stocked; communicated with manager and cashiers for special orders."
 volunteer:
-  - organization: "Hanyang Mentoring Program"
+  - organization: "University of South Alabama: HOLLAs (Hands-on Learning Lab Activities)"
     position: "Mentor"
-    website: ""
-    startDate: "2018-03-02"
-    endDate: "2018-12-21"
-    summary: "Mentoring for the major courses of CSE with juniors"
-    highlights:
-      - "Data Structure; Teaching & helping sophomores on the data structure course."
-      - "Database Systems; Teaching & helping sophomores on the database system course."
-      - "Awarded 'Hanyang Best Mentor' for mentoring Database Systems course."
-  - organization: "Hanmille, Foreigner Mentoring Program"
+    website: "https://www.southalabama.edu/colleges/soc/cfits/holla.html"
+    date: "2022-03-29"
+    summary: >
+      "Mentoring Freshman from Davidson High School on the basics of create a webpage with HTML and CSS"
+
+  - organization: "University of South Alabama: Week of Code"
     position: "Mentor"
-    website: ""
-    startDate: "2014-03-02"
-    endDate: "2014-12-18"
-    summary: "Mentoring & helping foreign students to easily adjust to Korea."
+    website: "https://www.southalabama.edu/colleges/soc/news/soc-davidson_hs-programming_camp.html"
+    date: "2021-07-12"
+    summary: >
+      "Mentored Freshman from Davidson High School on different coding techniques and introductory coding with Scratch, Python, and a Raspberry Pi."
+
+  - organization: "University of South Alabama: South Bound Orientation"
+    position: "Guide"
+    website: "https://www.southalabama.edu/departments/orientation/freshmanorientation.html"
+    startDate: "2021-06-25"
+    endDate: "2021-06-26"
+    summary: >
+      "Engaged with incoming freshmen that are interested in the School of Computing."
+
+  - organization: "Feeding the Gulf Coast"
+    position: "Helper"
+    website: "https://www.feedingthegulfcoast.org/"
+    startDate: "2019-04-01"
+    endDate: "2021-05-30"
+    summary: >
+      "Helped in providing nutrtious food to families on the Gulf Coast."
+
     highlights:
-education:
-  - institution: "Hanyang University, Seoul"
-    area: "Computer Science & Engineering"
-    studyType: "Bachelor"
-    startDate: "2014-03-02"
-    endDate: "2020-02-21"
-    gpa: "4.0 (major 4.28) / 4.5"
-    courses:
-      - "Concurrent Programming"
-      - "Data Science"
-      - "Operating Systems"
-      - "Computer Architecture"
-      - "Database Systems"
-      - "System Programming"
-  - certificate: "Engineer Information Processing (정보처리기사)"
-    date: "2019-11-22"
+      - "Checked and packaged leftover food from coporate grocery stores."
+      - "Moved large care packages that would be distributed across the GC."
+  - organization: "McKemie Place"
+    position: "Helper"
+    website: "https://www.mckemieplace.org/"
+    date: "2018-08-10"
+    summary: "Helped with creating care packages and serving food to homless women in need of help."
+  - organization: "Ronald McDonald House"
+    position: "Helper"
+    website: "https://rmhc.org/"
+    date: "2018-09-20"
+    summary: "Helped with setting up and serving food to families with sick children that cannot afford the basic necessities."
 projects:
   - title: "Bw-Tree Performance Boosting"
     startDate: "2018-08-01"
