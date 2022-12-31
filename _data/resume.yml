@@ -1,12 +1,12 @@
 basics:
   name: "Jamie Carambat"
   label: "Cybersecurity Student and Intern"
-  picture: /assets/img/sushi_profile.png
+  picture: /assets/img/sushi-profile.png
   email: "jecarambat@gmail.com"
   phone: "(251)-725-4820"
   website: "https://kuroorb.github.io/"
   summary: >
-    Hello, I'm Jamie Carambat from University of South Alabama.<br> I like to always keep learning and guide others to do the same.<br> I'd like to describe myself as a competive learner.<br>
+    Hello, my name is Jamie Carambat and I go to the University of South Alabama.<br> I am always trying to learn something new and I enjoy encouraging others to do the same.<br> One thing I like to describe myself as is hard working
 
   profiles:
     - network: "Github"
