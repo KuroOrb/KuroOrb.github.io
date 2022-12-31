@@ -2,31 +2,33 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name: Jamie Carambat
-  email: jecarambat@gmail.com
+  name:              Jamie Carambat
+  email:             jecarambat@gmail.com
+
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about: |
+  about:             |
     Cybersecuirty and Software Engineer Intern at Lawerence Livermore National Lab.<br>
     Please check my [Resume][resume] to find out more about me!<br>
 
     [resume]: /resume/
+
   # This photo will be used in the about section
   picture:
-    path: /assets/img/sushi-profile.png
+    path:            /assets/img/sushi-profile.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    # srcset:
-    #   1x:
-    #   2x:
+    srcset:
+      1x:            https://placehold.it/128x128
+      2x:            https://placehold.it/256x256
+
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    linkedin: james-carambat-10a5451b9
-    github: kuroorb
-    # stackoverflow:   4294737
-    email: jecarambat@gmail.com
-    # rss:             https://lazyren.github.io/feed.xml
+    twitter:         james-carambat-10a5451b9
+    github:          kuroorb
+    email:           jecarambat@gmail.com
+    # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
@@ -44,22 +46,24 @@ author1:
     # deviantart:      <username>
     # ello:            <username>
     # twitch:          <username>
-    # steam:           76561198031392006
+    # steam:           <number>
     # reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
+    # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
+    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
     # download:        <url>
-    # keybase:         <username>
+    # keybase          <username>
 
 # Another author (optional)
 # author2:

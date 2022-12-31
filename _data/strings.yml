@@ -124,15 +124,14 @@ resume:
   email:               Email
   phone:               Phone
   website:             Website
-  work:                Relevant Experience
+  work:                Experience
   work_title:          <!--position--> at <!--company-->
   additional_work:     Additional Work
   highlights:          Highlights
-  volunteer:           Volunteer
+  volunteer:           Leadership and Volunteer
   volunteer_title:     <!--position--> at <!--organization-->
   education:           Education
-  education_title:     <!--study_type--> in <!--area--><br>&emsp;&emsp;from <!--institution--> with GPA of <!--gpa-->
-  certificate_title:   <!--certificate-->
+  education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
   projects:            Projects
   projects_title:      "<!--title-->: <!--date-->"
   courses:             Courses
@@ -165,7 +164,6 @@ resume:
     work:              icon-briefcase
     volunteer:         icon-earth
     education:         icon-library
-    projects:          icon-cog
     awards:            icon-trophy
     publications:      icon-book
     references:        icon-quotes-right
