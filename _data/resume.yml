@@ -204,7 +204,7 @@ publications:
     releaseDate: "2022-07-22"
     website: "https://secrypt.scitevents.org/"
     summary: "Submitted..."
-skills:
+programming:
   - name: "Python"
     level: "Master"
   - name: "Java"
@@ -213,6 +213,7 @@ skills:
     level: "Intermediate"
   - name: "Rust"
     level: "Junior"
+skills:
   - name: "Operating Systems Hardening and CLI"
     level: "Intermediate"
     keywords:

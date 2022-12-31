@@ -18,6 +18,7 @@ left_column:
  - references
 right_column:
  - languages
+ - programming
  - skills
  - interests
 no_language_icons: false
