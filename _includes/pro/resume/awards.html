@@ -6,7 +6,7 @@
     <span class="symbol {{ icons.awards | default:'icon-trophy' }}"></span>
   </h2>
   {% for awa in resume.awards %}
-  <section>
+  <section class="no-page-break">
     <header class="{% unless forloop.first %}mt2{% endunless %}">
       {% if awa.date.size > 0 %}
         <p class="faded">

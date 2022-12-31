@@ -113,31 +113,27 @@ volunteer:
     position: "Mentor"
     website: "https://www.southalabama.edu/colleges/soc/cfits/holla.html"
     date: "2022-03-29"
-    summary: >
-      "Mentoring Freshman from Davidson High School on the basics of create a webpage with HTML and CSS"
+    summary: "Mentoring Freshman from Davidson High School on the basics of create a webpage with HTML and CSS"
 
   - organization: "University of South Alabama: Week of Code"
     position: "Mentor"
     website: "https://www.southalabama.edu/colleges/soc/news/soc-davidson_hs-programming_camp.html"
     date: "2021-07-12"
-    summary: >
-      "Mentored Freshman from Davidson High School on different coding techniques and introductory coding with Scratch, Python, and a Raspberry Pi."
+    summary: "Mentored Freshman from Davidson High School on different coding techniques and introductory coding with Scratch, Python, and a Raspberry Pi."
 
   - organization: "University of South Alabama: South Bound Orientation"
     position: "Guide"
     website: "https://www.southalabama.edu/departments/orientation/freshmanorientation.html"
     startDate: "2021-06-25"
     endDate: "2021-06-26"
-    summary: >
-      "Engaged with incoming freshmen that are interested in the School of Computing."
+    summary: "Engaged with incoming freshmen that are interested in the School of Computing."
 
   - organization: "Feeding the Gulf Coast"
     position: "Helper"
     website: "https://www.feedingthegulfcoast.org/"
     startDate: "2019-04-01"
     endDate: "2021-05-30"
-    summary: >
-      "Helped in providing nutrtious food to families on the Gulf Coast."
+    summary: "Helped in providing nutritious food to families on the Gulf Coast."
 
     highlights:
       - "Checked and packaged leftover food from coporate grocery stores."
@@ -182,7 +178,7 @@ projects:
       - "Implement 'triple indirect block addressing' to support large file upto 1030 MB original limitation was 70 KB."
 awards:
   - title: "University of South Alabama's Cyber Corps: Scholarship for Service (SFS) Program"
-    awarder: "University of South Alabama and sponsored by the National Science Foundation and the Department of Homeland Security"
+    awarder: "National Science Foundation and the Department of Homeland Security"
     startDate: "2021-01-08"
   - title: "School of Computing Honor Society"
     awarder: "University of South Alabama's School of Computing"
