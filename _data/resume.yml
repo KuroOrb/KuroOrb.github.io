@@ -93,7 +93,7 @@ work:
       - "AWID dataset is used in machine learning algorithms to detect malware over 802.11i traffic."
       - "Responsible for breaking down and preprocessing AWID dataset to produce successful predictions using the Random Forest algorithm."
 additional_work:
-  - company: "Univerist of South Alabama Recreation Center"
+  - company: "Univeristy of South Alabama Recreation Center"
     position: "Lifeguard"
     website: "https://www.southalabama.edu/departments/campusrec/studentrecreationcenter/"
     startDate: "2018-05-01"
@@ -204,7 +204,7 @@ awards:
     endDate: "2021-05-30"
 publications:
   - name: "Evaluating Defensive Countermeasures for Software-Based Hardware Abstraction"
-    publisher: "SECRYPT"
+    publisher: "McDonald et al."
     releaseDate: "2022-07-22"
     website: "https://secrypt.scitevents.org/"
     summary: "Submitted..."
@@ -217,7 +217,7 @@ skills:
     level: "Intermediate"
   - name: "Rust"
     level: "Junior"
-  - name: "Operating Systems Hardening and Command Line"
+  - name: "Operating Systems Hardening and CLI"
     level: "Intermediate"
     keywords:
       - "Linux"
@@ -261,6 +261,12 @@ skills:
     keywords:
       - "HTML"
       - "CSS"
+  - name: "Malware Analysis and RE"
+    level: "Junior"
+    keywords:
+      - "Ghidra"
+      - "Binary Ninja"
+      - "GDB"
   - name: "Sociability"
     level: "Master"
     keywords:
@@ -280,8 +286,6 @@ skills:
       - "Metasploit"
       - "Astah UML"
       - "Git and GitLab"
-      - "Ghidra"
-      - "Binary Ninja"
 languages:
   - language: "English"
     fluency: "Native Speaker"

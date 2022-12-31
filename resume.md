@@ -11,12 +11,12 @@ left_column:
  - education
  - work
  - additional_work
+ - volunteer
+ - awards
  - projects
  - publications
  - references
 right_column:
- - awards
- - volunteer
  - languages
  - skills
  - interests
