@@ -1,10 +1,10 @@
 ---
 layout: tag-list
 type: tag
-title: C++
-slug: cpp
+title: Python
+slug: python
 category: studylog
 sidebar: true
 description: >
-   C++ related posts
+   Python related posts
 ---
