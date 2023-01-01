@@ -53,14 +53,18 @@ author:
 
 # Add links to the sidebar.
 # menu:
-#   - title:             Blog
-#     url:               /blog/
-#   - title:             Projects
-#     url:               /projects/
-#   - title:             Résumé*
+#   - title:             About
+#     url:               /about/
+#   - title:             Dev. Log
+#     url:               /devlog/
+#   - title:             Study Log
+#     url:               /studylog/
+#   - title:             Review
+#     url:               /review/
+#   - title:             Résumé
 #     url:               /resume/
-#   - title:             Documentation
-#     url:               /docs/
+#   # - title:             Documentation
+#   #   url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -69,10 +73,10 @@ legal:
     url:               /LICENSE/
   - title:             COOKIES POLICY
     url:               /COOKIES-POLICY/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#   - title:             NOTICE
+#     url:               /NOTICE/
+#   - title:             CHANGELOG
+#     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2022. All rights reserved.
@@ -140,13 +144,13 @@ defaults:
 
   # Don't include documents in assets in the sitemap
   - scope:
-      path:            assets/
+      path:            assets/**
     values:
       sitemap:         false
 
   # Don't include licenses in sitemap (feel free to delete)
   - scope:
-      path:            licenses/
+      path:            licenses/**
     values:
       layout:          plain
       sitemap:         false
